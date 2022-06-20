@@ -1,7 +1,6 @@
 Hello 👋,
 
-My name is Diego Rodrigo, and I'm from Brazil (🇧🇷). I've been working with technology my all life. Actually I work as a developer at Unicamp.
-
+My name is Diego Rodrigo, and I'm from Brazil (🇧🇷). I've been working with technology my all life. Actually I work as a developer.
 ##
 
 <div align="center">
